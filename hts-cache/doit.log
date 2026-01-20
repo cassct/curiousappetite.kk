@@ -1,5 +1,5 @@
-https://beloved-ideas-595751.framer.app/ -O ./site +https://beloved-ideas-595751.framer.app/* +https://*.framerusercontent.com/* -r1 -%e1 -c2 -v
-File generated automatically on Tue, 20 Jan 2026 18:30:29, do NOT edit
+https://beloved-ideas-595751.framer.app/ -O ./site +https://beloved-ideas-595751.framer.app/* +https://*.framerusercontent.com/* +https://fonts.googleapis.com/* +https://fonts.gstatic.com/* -r2 -%e2 -c2 -n -v
+File generated automatically on Tue, 20 Jan 2026 18:52:39, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
