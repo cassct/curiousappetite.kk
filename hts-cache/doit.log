@@ -1,0 +1,8 @@
+https://beloved-ideas-595751.framer.app/ -O ./site +https://beloved-ideas-595751.framer.app/* +https://*.framerusercontent.com/* -r1 -%e1 -c2 -v
+File generated automatically on Tue, 20 Jan 2026 18:30:29, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
